@@ -1,2 +1,9 @@
 # Graphs
-Project contains BFS/DFS implementation and also some optimised link list based questions 
+Algorithms related to Graphs like
+BFS/DFS
+Dijkstra
+Bellman Ford
+Prims
+Kruskal
+
+Some optimised solutions related to linklist
