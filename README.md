@@ -1,9 +1,7 @@
 # Graphs
 Algorithms related to Graphs like
-<li>BFS/DFS
-<li>Dijkstra
-<li>Bellman Ford
-<li>Prims
-<li>Kruskal
+<li>BFS
+<li>DFS
+<li>Heap
 
 <li>Some optimised solutions related to linklist
