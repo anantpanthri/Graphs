@@ -82,3 +82,18 @@ public class CheckRouteBetweenNode {
 	}
 
 }
+/* output
+ * polling from vertex 0: 1
+	polling from vertex 0: 4
+	polling from vertex 1: 0
+	polling from vertex 1: 4
+	polling from vertex 1: 3
+	polling from vertex 2: 1
+	polling from vertex 2: 3
+	polling from vertex 3: 1
+	polling from vertex 3: 4
+	polling from vertex 4: 3
+	polling from vertex 4: 0
+	polling from vertex 4: 1
+false
+*/
